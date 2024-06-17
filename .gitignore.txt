@@ -1,0 +1,2 @@
+#ignore all Images/ files
+*images
